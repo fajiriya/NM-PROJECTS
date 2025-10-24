@@ -79,7 +79,7 @@ DELETE /api/users/:id → Delete user
 
 1.Clone the repo
 
-git clone https://github.com/abiinayasekar/NM-PROJECT1.git
+git clone https://github.com/fajiriya/NM-PROJECT1.git
 
 cd Blogging-Platform
 
